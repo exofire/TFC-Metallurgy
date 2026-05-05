@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/refined_obsidian",
+    "metal": "tfc_metallurgy:block/metal/smooth/refined_obsidian",
     "lamp": "tfc:block/lamp"
   }
 }

@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp_hanging",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/osmiridium",
+    "metal": "tfc_metallurgy:block/metal/smooth/osmiridium",
     "chain": "tfc_metallurgy:block/metal/chain/osmiridium",
     "lamp": "tfc:block/lamp"
   }

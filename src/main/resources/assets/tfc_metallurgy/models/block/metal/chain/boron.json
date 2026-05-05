@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/boron",
-    "particle": "tfc_metallurgy:block/metal/full/boron"
+    "particle": "tfc_metallurgy:block/metal/smooth/boron"
   }
 }

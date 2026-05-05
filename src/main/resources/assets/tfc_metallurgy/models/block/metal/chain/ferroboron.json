@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/ferroboron",
-    "particle": "tfc_metallurgy:block/metal/full/ferroboron"
+    "particle": "tfc_metallurgy:block/metal/smooth/ferroboron"
   }
 }

@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/nickel_silver",
-    "particle": "tfc_metallurgy:block/metal/full/nickel_silver"
+    "particle": "tfc_metallurgy:block/metal/smooth/nickel_silver"
   }
 }

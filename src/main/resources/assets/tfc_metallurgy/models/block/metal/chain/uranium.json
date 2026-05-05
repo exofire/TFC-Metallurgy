@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/uranium",
-    "particle": "tfc_metallurgy:block/metal/full/uranium"
+    "particle": "tfc_metallurgy:block/metal/smooth/uranium"
   }
 }

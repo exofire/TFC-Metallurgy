@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp_hanging",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/refined_glowstone",
+    "metal": "tfc_metallurgy:block/metal/smooth/refined_glowstone",
     "chain": "tfc_metallurgy:block/metal/chain/refined_glowstone",
     "lamp": "tfc:block/lamp_off"
   }

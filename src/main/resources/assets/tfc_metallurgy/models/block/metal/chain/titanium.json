@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/titanium",
-    "particle": "tfc_metallurgy:block/metal/full/titanium"
+    "particle": "tfc_metallurgy:block/metal/smooth/titanium"
   }
 }

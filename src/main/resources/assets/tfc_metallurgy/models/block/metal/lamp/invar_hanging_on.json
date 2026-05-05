@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp_hanging",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/invar",
+    "metal": "tfc_metallurgy:block/metal/smooth/invar",
     "chain": "tfc_metallurgy:block/metal/chain/invar",
     "lamp": "tfc:block/lamp"
   }

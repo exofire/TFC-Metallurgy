@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp_hanging",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/pewter",
+    "metal": "tfc_metallurgy:block/metal/smooth/pewter",
     "chain": "tfc_metallurgy:block/metal/chain/pewter",
     "lamp": "tfc:block/lamp"
   }

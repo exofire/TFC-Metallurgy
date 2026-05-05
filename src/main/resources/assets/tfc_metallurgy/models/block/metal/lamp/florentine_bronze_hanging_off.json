@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp_hanging",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/florentine_bronze",
+    "metal": "tfc_metallurgy:block/metal/smooth/florentine_bronze",
     "chain": "tfc_metallurgy:block/metal/chain/florentine_bronze",
     "lamp": "tfc:block/lamp_off"
   }

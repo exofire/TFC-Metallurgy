@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/refined_obsidian",
-    "particle": "tfc_metallurgy:block/metal/full/refined_obsidian"
+    "particle": "tfc_metallurgy:block/metal/smooth/refined_obsidian"
   }
 }

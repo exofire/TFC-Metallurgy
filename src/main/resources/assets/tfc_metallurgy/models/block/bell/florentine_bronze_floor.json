@@ -3,6 +3,6 @@
   "textures": {
     "bar": "tfc:block/rock/raw/dolomite",
     "post": "tfc:block/wood/planks/ash",
-    "particle": "tfc_metallurgy:block/metal/full/florentine_bronze"
+    "particle": "tfc_metallurgy:block/metal/smooth/florentine_bronze"
   }
 }

@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/osmiridium",
-    "particle": "tfc_metallurgy:block/metal/full/osmiridium"
+    "particle": "tfc_metallurgy:block/metal/smooth/osmiridium"
   }
 }

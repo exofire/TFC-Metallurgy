@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp_hanging",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/beryllium_copper",
+    "metal": "tfc_metallurgy:block/metal/smooth/beryllium_copper",
     "chain": "tfc_metallurgy:block/metal/chain/beryllium_copper",
     "lamp": "tfc:block/lamp"
   }

@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/florentine_bronze",
-    "particle": "tfc_metallurgy:block/metal/full/florentine_bronze"
+    "particle": "tfc_metallurgy:block/metal/smooth/florentine_bronze"
   }
 }

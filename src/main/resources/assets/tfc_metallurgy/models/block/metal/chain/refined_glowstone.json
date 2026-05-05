@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/refined_glowstone",
-    "particle": "tfc_metallurgy:block/metal/full/refined_glowstone"
+    "particle": "tfc_metallurgy:block/metal/smooth/refined_glowstone"
   }
 }

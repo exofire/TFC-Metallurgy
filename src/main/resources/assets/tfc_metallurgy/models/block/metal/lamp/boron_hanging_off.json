@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp_hanging",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/boron",
+    "metal": "tfc_metallurgy:block/metal/smooth/boron",
     "chain": "tfc_metallurgy:block/metal/chain/boron",
     "lamp": "tfc:block/lamp_off"
   }

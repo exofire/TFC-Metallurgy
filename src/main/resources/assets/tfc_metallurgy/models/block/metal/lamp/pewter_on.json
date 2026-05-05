@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/pewter",
+    "metal": "tfc_metallurgy:block/metal/smooth/pewter",
     "lamp": "tfc:block/lamp"
   }
 }

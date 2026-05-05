@@ -1,7 +1,7 @@
 {
   "parent": "tfc:block/lamp",
   "textures": {
-    "metal": "tfc_metallurgy:block/metal/full/tungsten_steel",
+    "metal": "tfc_metallurgy:block/metal/smooth/tungsten_steel",
     "lamp": "tfc:block/lamp_off"
   }
 }

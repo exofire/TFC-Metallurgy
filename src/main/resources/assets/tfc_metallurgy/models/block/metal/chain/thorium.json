@@ -2,6 +2,6 @@
   "parent": "minecraft:block/chain",
   "textures": {
     "all": "tfc_metallurgy:block/metal/chain/thorium",
-    "particle": "tfc_metallurgy:block/metal/full/thorium"
+    "particle": "tfc_metallurgy:block/metal/smooth/thorium"
   }
 }
