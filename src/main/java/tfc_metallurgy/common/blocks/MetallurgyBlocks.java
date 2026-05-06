@@ -37,20 +37,20 @@ public class MetallurgyBlocks {
 
     public static final Map<Rock, Map<MetallurgyOre, RegistryObject<Block>>> ORES = Helpers.mapOfKeys(Rock.class, rock ->
             Helpers.mapOfKeys(MetallurgyOre.class, ore -> !ore.isGraded(), ore ->
-                    register(("ore/" + ore.name() + "/" + rock.name()), () -> ore.create(rock))
+                    register(("ore/" + ore.name().toLowerCase() + "/" + rock.name().toLowerCase()), () -> ore.create(rock))
             )
     );
 
     public static final Map<Rock, Map<MetallurgyOre, Map<Ore.Grade, RegistryObject<Block>>>> GRADED_ORES = Helpers.mapOfKeys(Rock.class, rock ->
             Helpers.mapOfKeys(MetallurgyOre.class, MetallurgyOre::isGraded, ore ->
                     Helpers.mapOfKeys(Ore.Grade.class, grade ->
-                            register(("ore/" + grade.name() + "_" + ore.name() + "/" + rock.name()), () -> ore.create(rock))
+                            register(("ore/" + grade.name().toLowerCase() + "_" + ore.name().toLowerCase() + "/" + rock.name().toLowerCase()), () -> ore.create(rock))
                     )
             )
     );
 
     public static final Map<MetallurgyOre, RegistryObject<Block>> SMALL_ORES = Helpers.mapOfKeys(MetallurgyOre.class, MetallurgyOre::isGraded, type ->
-            register(("ore/small_" + type.name()), () -> GroundcoverBlock.looseOre(BlockBehaviour.Properties.of().mapColor(MapColor.GRASS).strength(0.05F, 0.0F).sound(SoundType.NETHER_ORE).noCollission()))
+            register(("ore/small_" + type.name().toLowerCase()), () -> GroundcoverBlock.looseOre(BlockBehaviour.Properties.of().mapColor(MapColor.GRASS).strength(0.05F, 0.0F).sound(SoundType.NETHER_ORE).noCollission()))
     );
 
     public static final Map<MetallurgyMetal, Map<MetallurgyMetal.BlockType, RegistryObject<Block>>> METALS = Helpers.mapOfKeys(MetallurgyMetal.class, metal ->
@@ -85,3 +85,4 @@ public class MetallurgyBlocks {
         return RegistrationHelpers.registerBlock(BLOCKS, MetallurgyItems.ITEMS, name, blockSupplier, blockItemFactory);
     }
 }
+
