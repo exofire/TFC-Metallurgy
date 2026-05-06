@@ -11,5 +11,5 @@
   "result": {
     "item": "tfc_metallurgy:metal/ingot/zirconium"
   },
-  "break_chance": 0.1
+  "break_chance": 0.01
 }

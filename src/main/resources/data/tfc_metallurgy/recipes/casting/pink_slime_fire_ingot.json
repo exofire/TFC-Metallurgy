@@ -10,5 +10,5 @@
   "result": {
     "item": "tfc_metallurgy:metal/ingot/pink_slime"
   },
-  "break_chance": 0.1
+  "break_chance": 0.01
 }
