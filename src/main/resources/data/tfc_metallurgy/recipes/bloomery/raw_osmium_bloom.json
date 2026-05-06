@@ -7,8 +7,6 @@
     "ingredient": "tfc_metallurgy:metal/osmium",
     "amount": 100
   },
-  "catalyst": {
-    "item": "minecraft:charcoal"
-  },
+  "catalyst": { "ingredient": { "item": "minecraft:charcoal" }, "count": 1 },
   "duration": 15000
 }
